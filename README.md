@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an undergraduate at the University of Westminster <br>🌱 I’m currently learning MERN, Python, Java<br>🤝 I’m looking for help with machine learning and data science<br><br>💬 Ask me about anything that catches your interest<br>♟️Fun fact I'm a chess player 
+🔭 I’m an undergraduate at the University of Westminster <br>🌱 I’m currently learning MERN, Python, Java<br>🤝 I’m looking for help with machine learning, data science and AR development<br><br>💬 Ask me about anything that catches your interest<br>♟️Fun fact I'm a chess player 
 
 
 ## 🌐 Socials:
